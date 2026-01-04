@@ -21,3 +21,54 @@
 #text5 span{
     font-size: 50px;
 }
+footer{
+    height: 340px;
+    background-color: rgb(101, 3, 247);
+}
+.box{
+    display: flex;
+    background-color: rgb(101, 3, 247);
+    height: 280px;
+}
+.box div{
+    flex-basis: 30%;
+   text-align: left;
+margin: 20px 40px;
+ height: 200px;
+}
+#location h3{
+font-weight: bold;
+color: white;
+margin-top: 20px;
+}
+#location p{
+    text-align: justify;
+    font-weight: bold;
+    color: white;
+}
+#location2 h3{
+font-weight: bold;
+color: white;
+margin-top: 20px;
+}
+#location2 p{
+    text-align: left;
+    font-weight: bold;
+    color: white;
+    line-height: 30px;
+}
+#location3 h3{
+font-weight: bold;
+color: white;
+margin-top: 20px;
+}
+#location3 h4{
+font-weight: bold;
+color: white;
+margin-top: 20px;
+}
+#lasttext{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
